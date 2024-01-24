@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  background-color: #373167;
+}
+
+#title {
+  font-family: 'Chakra Petch', cursive;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+#instruction {
+  font-family: 'Chakra Petch', cursive;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+#level-title {
+  font-family: 'Chakra Petch', cursive;
+  font-size: 1.5rem;
+  color: #09ff00;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 30px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border: 8px solid black;
+  border-radius: 50%;
+}
+
+.colour1 {
+  background-color: turquoise;
+}
+
+.colour2 {
+  background-color: rgb(255, 0, 136);
+}
+
+.colour3 {
+  background-color: violet;
+}
+
+.colour4 {
+  background-color: rgb(0, 94, 255);
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
